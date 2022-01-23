@@ -1,0 +1,3 @@
+- name: "Install Cheese application"
+  ansible.builtin.include_tasks: install_app/main.yml
+
